@@ -1,6 +1,10 @@
-.testing {
+div.testing {
   display: flex;
-  width: 71.42857%; }
+  width: 25%;
+  border: 1rem;
+  border-color: blueviolet;
+  border-style: solid;
+  margin: 3px; }
 
 body {
   background: lightblue; }

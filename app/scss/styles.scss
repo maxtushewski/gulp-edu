@@ -1,7 +1,11 @@
 // styles.scss
-.testing {
+div.testing {
     display: flex;
-    width: percentage(5/7)
+    width: percentage(1/4);
+    border: 1rem;
+    border-color: blueviolet;
+    border-style: solid;
+    margin: 3px;
 }
 
 body {
